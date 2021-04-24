@@ -25,7 +25,30 @@ The function of this code revolves around the  ardunio's analogWrite() function.
 
 #  Images
 
-## Blue Wire Visual
-![Alt text](images/BlueWireVisual.JPG?raw=true "BlueWire")
+## 3D Printed Control Panel
+<img src="images/3DPrintedMainPanel.JPG" height="350" width="350*4/3">  
 
-## Next ....
+
+## Panel with Ardunio, Partially Installed
+<img src="images/FinalPanelAndArdunio.JPG" height="350" width="350*4/3">  
+
+
+## Dash Installation Location
+<img src="images/OpenDash.JPG" height="350" width="350*4/3">  
+
+
+## Fully Installed
+<img src="images/FullyInstalledInDash.jpg" height="350" width="350*4/3">  
+
+
+## Blue Wire Routing Visual
+<img src="images/BlueWireVisual.JPG" height="350" width="350*4/3">  
+
+
+## Installing Lights
+<img src="images/InstallingLightsUnderCar.JPG" height="350" width="350*4/3">  
+
+
+
+https://user-images.githubusercontent.com/52986112/115943701-6e5adc80-a466-11eb-8b8b-517871f967cd.MOV
+
