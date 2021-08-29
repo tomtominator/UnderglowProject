@@ -1,18 +1,19 @@
-
-# Underglow Project Description
-
+# Underglow Project
 Idea: I drove a lot of late nights that summer(2020) and loved my car. I also loved LED lights.  
 
-I was looking through photos of a car show I had visisted years prior and it hit me. I can combine my two burning passions, my car and LED lights, into one. I knew all I needed was to be able to control the lights with a microcontroller and power could be supplied through the existing car battery.
+I was looking through photos of a car show I had visited years prior and it hit me. I can combine my two burning passions, my car and LED lights, into one. I knew all I needed was to be able to control the lights with a microcontroller and power could be supplied through the existing car battery.
 
 ## Features
-2 sets of 2 independently controllable RGB LED strips
-Control panel for various light settings
-Ardunio to uniquely control lights
-Battery indicator module monitoring the car battery
+- 2 sets of 2 independently controllable RGB LED strips
+- Control panel for various light settings
+- Ardunio to uniquely control lights
+- Battery indicator module monitoring the car battery
 
 # Materials
-ardunio uno, approx 24ft of LEDS, various switches/buttons, misc connectors
+- ardunio uno
+- approx 24ft of LEDS
+- various switches/buttons
+- misc connectors
 
 
 # The Hardware
@@ -50,7 +51,6 @@ The function of this code revolves around the  ardunio's analogWrite() function.
 
   
 # Results  
-
   
 Quickly copy pasting some generic RGB LED control code and modifying it to fit my program produced this awesome light show:
 
